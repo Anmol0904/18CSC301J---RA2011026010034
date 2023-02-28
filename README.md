@@ -1,6 +1,6 @@
-# 18CSC301J-Information Visualization 
+# 18CSC301J-RA2011026010034
 
-RA2011026010034
+Information Visualization 
 
 Anmol Agarwal
 
